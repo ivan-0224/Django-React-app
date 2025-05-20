@@ -1,14 +1,14 @@
 <div align="center">
 <img width="50%" src="http://i3.ytimg.com/vi/tYKRAXIio28/maxresdefault.jpg"/>
 
-# Django & React Notes App
+# Django & React App
 </div>
 
 ### Cloning the repository
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/Django-React-NotesApp.git
+git clone https://github.com/ivan-0224/Django-React-app.git
 
 ```
 
